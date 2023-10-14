@@ -2,6 +2,6 @@
 
 
 int main () {
-    std::cout << "fuck thrautumn";
+std::cout << "fuck your self";
     return 0;
 }
