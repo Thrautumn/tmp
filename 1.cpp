@@ -2,6 +2,6 @@
 
 
 int main () {
-std::cout << "fuck your self";
+no,fuck is allowed in hitwh
     return 0;
 }
