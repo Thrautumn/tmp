@@ -2,6 +2,6 @@
 
 
 int main () {
-    std::cout << "NO FUCK IS ALLOWED IN HITWH";
+no,fuck is allowed in hitwh
     return 0;
 }
